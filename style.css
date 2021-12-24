@@ -1,0 +1,39 @@
+.header {
+ background: url('images/pool.jpg');
+ height: 150px;
+ background-size: cover;
+ background-position: center;
+}
+
+.header h1 {
+
+    color: azure;
+    text-align: center;
+    padding-top: 60px;
+}
+.nav {
+
+background-color: cornflowerblue;
+height: 30px;
+padding-top: 15px;
+
+}
+
+.nav ul {
+
+    margin-top: 0px;
+
+}
+
+.nav ul li {
+
+
+list-style: none;
+display: inline;
+padding: 10px;
+}
+
+.nav a {
+
+    color: white;
+}
