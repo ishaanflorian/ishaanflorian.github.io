@@ -7,13 +7,13 @@
 
 .header h1 {
 
-    color: azure;
+    color: rgb(119, 237, 219);
     text-align: center;
     padding-top: 60px;
 }
 .nav {
 
-background-color: cornflowerblue;
+background-color: rgb(232, 198, 8);
 height: 30px;
 padding-top: 15px;
 
